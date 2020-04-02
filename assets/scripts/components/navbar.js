@@ -10,10 +10,10 @@ const navbar = () => {
             </a>
           </div>
           <div class="navbar-end">
-            <a href="/dist/views/movies.html" class="navbar-item">
+            <a href="/views/movies.html" class="navbar-item">
               <i class="fas fa-film"></i>Films
             </a>
-            <a href="/dist/views/series.html" class="navbar-item">
+            <a href="/views/series.html" class="navbar-item">
               <i class="fas fa-tv"></i> TV Series
             </a>
           </div>

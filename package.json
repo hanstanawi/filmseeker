@@ -1,0 +1,22 @@
+{
+	"name": "filmseeker",
+	"version": "1.0.0",
+	"description": "First iteration of filmseeker project",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hanstanawi/filmseeker.git"
+	},
+	"author": "Hans Tanawi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hanstanawi/filmseeker/issues"
+	},
+	"homepage": "https://hanstanawi.github.io/filmseeker",
+	"dependencies": {
+		"gh-pages": "^2.2.0"
+	}
+}
